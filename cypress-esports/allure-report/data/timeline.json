@@ -1,0 +1,57 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Sports-betting : Login Page",
+    "uid" : "488b67610f356760",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1631462039516,
+      "stop" : 1631462070384,
+      "duration" : 30868
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Sports-betting : Login Page",
+    "uid" : "15332602913205bb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1631462077894,
+      "stop" : 1631462104169,
+      "duration" : 26275
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Sports-betting : Home Page Test",
+    "uid" : "2455132f0b88c895",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1631462038079,
+      "stop" : 1631462039289,
+      "duration" : 1210
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Sports-betting : Home Page Test",
+    "uid" : "a578edcafafb2490",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "broken",
+    "time" : {
+      "start" : 1631462071551,
+      "stop" : 1631462077484,
+      "duration" : 5933
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

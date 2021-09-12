@@ -1,0 +1,21 @@
+[ {
+  "uid" : "15332602913205bb",
+  "name" : "Sports-betting : Login Page",
+  "time" : {
+    "start" : 1631462077894,
+    "stop" : 1631462104169,
+    "duration" : 26275
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a578edcafafb2490",
+  "name" : "Sports-betting : Home Page Test",
+  "time" : {
+    "start" : 1631462071551,
+    "stop" : 1631462077484,
+    "duration" : 5933
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

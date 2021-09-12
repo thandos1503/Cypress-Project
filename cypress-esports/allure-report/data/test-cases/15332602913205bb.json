@@ -1,0 +1,61 @@
+{
+  "uid" : "15332602913205bb",
+  "name" : "Sports-betting : Login Page",
+  "fullName" : "Visual regression test for Sports betting Home Page.Sports-betting : Login Page",
+  "historyId" : "97d4a7c7928049bda53d2751e40241b7",
+  "time" : {
+    "start" : 1631462077894,
+    "stop" : 1631462104169,
+    "duration" : 26275
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "`cy.screenshot()` only works for a single element. You attempted to screenshot 10 elements.\n                \n                https://on.cypress.io/screenshot",
+  "statusTrace" : "CypressError: `cy.screenshot()` only works for a single element. You attempted to screenshot 10 elements.\n                \n                https://on.cypress.io/screenshot\n                    at Context.screenshot (https://www.betway.co.za/__cypress/runner/cypress_runner.js:145812:19)\n                    at Context.<anonymous> (https://www.betway.co.za/__cypress/runner/cypress_runner.js:157772:21)\n                From Your Spec Code:\n                    at Context.matchImageSnapshot (https://www.betway.co.za/__cypress/tests?p=cypress\\support\\index.js:10688:12)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Visual regression test for Sports betting Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Visual regression test for Sports betting Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sports-betting : Login Page"
+  }, {
+    "name" : "package",
+    "value" : "Visual regression test for Sports betting Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "488b67610f356760",
+      "status" : "broken",
+      "statusDetails" : "`cy.screenshot()` only works for a single element. You attempted to screenshot 10 elements.\n                \n                https://on.cypress.io/screenshot",
+      "time" : {
+        "start" : 1631462039516,
+        "stop" : 1631462070384,
+        "duration" : 30868
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "15332602913205bb.json",
+  "parameterValues" : [ ]
+}

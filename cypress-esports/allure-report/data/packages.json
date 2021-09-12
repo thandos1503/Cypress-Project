@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Visual regression test for Sports betting Home Page",
+    "children" : [ {
+      "name" : "Sports-betting : Home Page Test",
+      "uid" : "a578edcafafb2490",
+      "parentUid" : "43598c134fe2685e3d633781e2e5d671",
+      "status" : "broken",
+      "time" : {
+        "start" : 1631462071551,
+        "stop" : 1631462077484,
+        "duration" : 5933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Sports-betting : Login Page",
+      "uid" : "15332602913205bb",
+      "parentUid" : "43598c134fe2685e3d633781e2e5d671",
+      "status" : "broken",
+      "time" : {
+        "start" : 1631462077894,
+        "stop" : 1631462104169,
+        "duration" : 26275
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "43598c134fe2685e3d633781e2e5d671"
+  } ]
+}

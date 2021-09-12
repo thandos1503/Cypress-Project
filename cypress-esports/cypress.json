@@ -1,0 +1,16 @@
+{
+    "projectId": "abr2de",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions":
+    {
+        "configFile": "reporter-config.json"
+    },
+    "video": false,
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout": 60000,
+    "waitForAnimations": true,
+    "chromeWebSecurity": false,
+    "experimentalRunEvents": false,
+    "testFiles": ["**/*.{feature,features}", "**/*.js"]
+
+}

@@ -1,0 +1,42 @@
+{
+  "13850249094f05217b6618960f9a1a23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a578edcafafb2490",
+      "status" : "broken",
+      "statusDetails" : "matchImageSnapshot is not defined",
+      "time" : {
+        "start" : 1631462071551,
+        "stop" : 1631462077484,
+        "duration" : 5933
+      }
+    } ]
+  },
+  "97d4a7c7928049bda53d2751e40241b7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "15332602913205bb",
+      "status" : "broken",
+      "statusDetails" : "`cy.screenshot()` only works for a single element. You attempted to screenshot 10 elements.\n                \n                https://on.cypress.io/screenshot",
+      "time" : {
+        "start" : 1631462077894,
+        "stop" : 1631462104169,
+        "duration" : 26275
+      }
+    } ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "04646aec9b18182414150bcd3f4f52f7",
+    "name" : "Visual regression test for Sports betting Home Page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2455132f0b88c895",
+  "name" : "Sports-betting : Home Page Test",
+  "fullName" : "Visual regression test for Sports betting Home Page.Sports-betting : Home Page Test",
+  "historyId" : "13850249094f05217b6618960f9a1a23",
+  "time" : {
+    "start" : 1631462038079,
+    "stop" : 1631462039289,
+    "duration" : 1210
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "matchImageSnapshot is not defined",
+  "statusTrace" : "ReferenceError: matchImageSnapshot is not defined\n                    at Context.eval (http://localhost:52231/__cypress/tests?p=cypress\\integration\\bet-home.spec.js:108:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Visual regression test for Sports betting Home Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Visual regression test for Sports betting Home Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Sports-betting : Home Page Test"
+  }, {
+    "name" : "package",
+    "value" : "Visual regression test for Sports betting Home Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2455132f0b88c895.json",
+  "parameterValues" : [ ]
+}

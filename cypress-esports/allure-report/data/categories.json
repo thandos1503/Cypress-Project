@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "matchImageSnapshot is not defined",
+      "children" : [ {
+        "name" : "Sports-betting : Home Page Test",
+        "uid" : "a578edcafafb2490",
+        "parentUid" : "ca507fea63b33002f4d89875469235f4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1631462071551,
+          "stop" : 1631462077484,
+          "duration" : 5933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca507fea63b33002f4d89875469235f4"
+    }, {
+      "name" : "`cy.screenshot()` only works for a single element. You attempted to screenshot 10 elements.\n                \n                https://on.cypress.io/screenshot",
+      "children" : [ {
+        "name" : "Sports-betting : Login Page",
+        "uid" : "15332602913205bb",
+        "parentUid" : "014545b7f8c83145cc7143c339c2f16d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1631462077894,
+          "stop" : 1631462104169,
+          "duration" : 26275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "014545b7f8c83145cc7143c339c2f16d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
